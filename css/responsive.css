@@ -1021,11 +1021,6 @@ margin-bottom: 20px;
     margin-top: 30px;
 }
 
-.photographer-about .about-btn {
-  margin-top: 7px;
-  text-align: center;
-}
-
 .lawyer-form .contact-form {
   margin-bottom: 50px;
 }
@@ -1382,14 +1377,6 @@ display: none;
   padding: 160px 0 100px 0;
 }
 
-.photographer-hero {
-  padding: 160px 0 100px 0;
-}
-
-.photographer-hero .inner-bg-head h1 {
-  font-size: 42px;
-}
-
 .service-heading-img img{
   width: 100%;
 }
@@ -1481,19 +1468,6 @@ display: none;
   padding-bottom: 20px;
 }
 
-.photographer-service {
-  padding: 60px 0;
-}
-
-.about-photographer .about-btn {
-  margin-top: 0;
-  text-align: center;
-}
-
-.photographer-service .service-tittle p {
-  text-align: center;
-}
-
 .service-heading h2{
   font-size: 30px;
   line-height: 48.2px;
@@ -1544,15 +1518,6 @@ text-align: center;
   margin-right: 0;
 }
 
-.photographer-form .hire-content h2 {
-  font-size: 30px;
-  line-height: 38px;
-}
-
-
-.photographer-service .service-card-bottom {
-  margin-top: 0;
-}
 
 .footer-four .official-btn-right {
   justify-content: center;
@@ -1588,9 +1553,6 @@ display: none;
 }
 
 
-.photographer-form {
-  padding: 0px 0 60px 0;
-}
 
 
 .hire-content h2{
@@ -1598,36 +1560,9 @@ display: none;
   line-height: 48.2px;
 }
 
-
-.photographer-about {
-  padding-top: 0px;
-}
-
-.photographer-about .about-img .about-inner-img {
-  margin-left: 0;
-}
-
-.about-content h2{
-  font-size: 32px;
-  line-height: 42px;
-}
-.photographer-about .about-content h3 {
-  padding-top: 30px;
-}
-
 .progresss-bar{
   display: none;
 }
-
-
-
-.photographer-service .service-card {
-margin-top: 20px;
-  margin-right: 0;
-}
-
-
-
 
 .portfolio-4 {
 display: none;
@@ -1876,22 +1811,6 @@ padding-bottom: 0;
 
 .Project-pt {
   padding-top: 0;
-}
-
-
-
-
-.service-details-photographer .service-blog .service-research .service-research-img {
-  display: block;
-
-}
-.service-details-photographer .service-blog .service-research .service-research-img img {
-  display: block;
-  width: 100%;
-  margin-bottom: 30px;
-}
-.service-details-photographer .service-blog .service-research .service-research-img img:last-child {
-  margin-bottom: 0px;
 }
 
 
