@@ -6588,58 +6588,6 @@ p {
   margin-top: 35px;
 }
 
-.photographer-form {
-  padding: 120px 0;
-  background: url("../assets/image/Photographer/form.png") no-repeat center/cover;
-}
-.photographer-form .hire-content p {
-  color: rgb(253, 204, 4);
-  font-size: 20px;
-  line-height: 32px;
-}
-.photographer-form .hire-content p:last-child {
-  color: rgb(244, 244, 244);
-}
-.photographer-form .hire-content h2 {
-  color: #ffffff;
-  padding: 8px 0 20px 0;
-}
-.photographer-form .hire-content h2 span {
-  display: block;
-}
-.photographer-form .contact-form ::-moz-placeholder {
-  color: rgb(116, 118, 129);
-}
-.photographer-form .contact-form ::placeholder {
-  color: rgb(116, 118, 129);
-}
-.photographer-form .contact-form input {
-  border-radius: 8px;
-  margin-bottom: 25px;
-}
-.photographer-form .contact-form .form-control {
-  padding: 14px 16px;
-  font-size: 14px;
-  text-decoration: inherit;
-  color: #ffffff;
-  background-color: rgb(5, 15, 37);
-  border: 1px solid rgba(255, 255, 255, 0.2);
-}
-.photographer-form .contact-form .form-control:focus {
-  border-color: transparent;
-  box-shadow: none;
-}
-.photographer-form .contact-form .form-btn {
-  margin-top: 30px;
-  line-height: 0;
-}
-.photographer-form .contact-form .form-btn .btn-style-3 {
-  width: 210px;
-}
-.photographer-form .contact-form .form-btn .btn-style-3 a {
-  font-weight: 500;
-  font-size: 18px;
-}
 
 .lawyer-form {
   padding: 120px 0 !important;
