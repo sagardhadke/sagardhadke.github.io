@@ -602,6 +602,95 @@ display: none;
     padding: 60px 0 60px 0;
 }
 
+<<<<<<< HEAD
+=======
+.product-details-img img{
+  width: 100%;
+}
+.text-end {
+    text-align: right!important;
+    text-align: center !important;
+    margin-top: 30px;
+}
+
+.photographer-about .about-btn {
+  margin-top: 7px;
+  text-align: center;
+}
+
+.lawyer-form .contact-form {
+  margin-bottom: 50px;
+}
+.product-details-text h2 {
+  text-align: center;
+    font-size: 28px;
+
+}
+.product-details-text-right p span {
+    padding-left: 0;
+}
+
+.additional-details-item {
+    display: flow-root;
+    gap: 66px;
+    margin-top: 24px;
+}
+
+.product-details {
+    background: url(../assets/image/others/banner/Product-details-bg.png) no-repeat center/cover;
+    padding: 60px 0;
+}
+.customers .slick-dots button {
+
+    margin: 0;
+}
+
+.team-img img{
+  width: 100%;
+}
+
+
+.team-item{
+  margin-bottom: 30px;
+}
+
+
+.team {
+    padding: 60px 0;
+}
+
+.warren-img img{
+  width: 100%;
+}
+
+
+.warren-top {
+  padding: 40px 27px 40px 27px !important;
+}
+
+.warren-contact{
+  margin-top: 30px;
+  text-align: center;
+}
+
+.warren-item .warren-inner {
+  justify-content: center;
+}
+
+.warren-item .warren-inner .text a {
+  font-size: 20px;;
+}
+
+.warren-btn {
+  margin-bottom: 30px;
+  justify-content: center;
+}
+
+.warren-right-img img{
+  width: 100%;
+}
+
+>>>>>>> parent of 66fd7a7 (Update responsive.css)
 
 .tab-item .tab-img .tab-img-overlay .tab-img-overlay-text p::before {
 display: none;
@@ -622,10 +711,479 @@ display: none;
   font-size: 14px;
 }
 
+<<<<<<< HEAD
 h2 {
   text-align: center;
 }
 
+=======
+.accordion-form .form {
+margin-top: 30px;
+}
+
+
+.accordion-form .form .form-btn {
+  line-height: 0;
+}
+.accordion-form {
+  padding: 0px 0 60px 0;
+}
+
+.news {
+  padding: 60px 0;
+}
+
+
+.news-tittle h2{
+font-size: 30px;
+line-height: 43px;
+}
+
+
+.news .news-tittle .news-tittle-img {
+display: none;
+}
+
+.news .row {
+  padding: 30px 0 0 0;
+}
+
+.footer-four .official-btn-right a {
+  padding-left: 3px;
+  padding-right: 4px;
+}
+
+
+.service-4 .service-card {
+  margin: 0 0 32px 0;
+}
+
+.about-hero {
+  padding: 160px 0 100px 0;
+}
+
+.photographer-hero {
+  padding: 160px 0 100px 0;
+}
+
+.photographer-hero .inner-bg-head h1 {
+  font-size: 42px;
+}
+
+.service-heading-img img{
+  width: 100%;
+}
+
+.service-details-4 .service-heading {
+ display: none;
+}
+
+.service-blog{
+  text-align: center;
+}
+
+.service-social-icon p{
+display: none;
+}
+
+.service-details-4 .service-heading .service-social-detail {
+  padding: 0px 0 20px 0;
+  text-align: center;
+}
+
+.service-blog-tittle h2{
+  font-size: 25px;
+  line-height: 45.2px;
+  text-align: center;
+}
+
+.service-details .service-blog .service-research .service-research-img {
+  display: block;
+
+}
+.service-details .service-blog .service-research .service-research-img img {
+  width: 100%;
+  padding-bottom: 20px;
+}
+.service-details .service-blog .service-research .service-research-img img:last-child {
+  padding-bottom: 0px;
+}
+
+.service-query-content h2{
+  font-size: 19px;
+  line-height: 40px;
+  text-align: center;
+}
+
+
+.service-qury-btn{
+  margin-top: 30px;
+}
+
+
+
+.service-testimonial .service-card {
+  margin: 0 0 32px 0;
+}
+
+
+.service-testimonial {
+  padding: 60px 0;
+}
+
+
+
+.service-details {
+  padding: 60px 0 0 0;
+}
+
+
+.about-4 .about-description {
+  padding-top: 10px;
+}
+
+
+.hero-inner-img img{
+  display: none;
+}
+
+.award-image img{
+  width: 100%;
+}
+
+.hero-achievement-img{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.hero-achievement-img img{
+  padding-bottom: 20px;
+}
+
+.photographer-service {
+  padding: 60px 0;
+}
+
+.about-photographer .about-btn {
+  margin-top: 0;
+  text-align: center;
+}
+
+.photographer-service .service-tittle p {
+  text-align: center;
+}
+
+.service-heading h2{
+  font-size: 30px;
+  line-height: 48.2px;
+}
+
+
+
+.portfolio-4 {
+  padding: 60px 0;
+}
+
+
+.portfolio-heading h2{
+  font-size: 33px;
+  line-height: 48.2px;
+}
+
+.portfolio-gallery{
+  margin-top: 80px;
+}
+
+
+.portfolio-4 .next-arrow {
+  position: absolute;
+  top: -95px;
+}
+.portfolio-4 .prev-arrow {
+  position: absolute;
+  top: -95px;
+}
+
+.portfolio-4 .portfolio-heading h3 {
+  padding-bottom: 20px;
+}
+
+
+.award {
+  padding: 0px 0 60px 0;
+}
+
+
+.photogallary .photogallary-heading h3 {
+text-align: center;
+}
+
+
+.photogallary .photogallary-gap .photogallary-box {
+  margin-right: 0;
+}
+
+.photographer-form .hire-content h2 {
+  font-size: 30px;
+  line-height: 38px;
+}
+
+
+.photographer-service .service-card-bottom {
+  margin-top: 0;
+}
+
+.footer-four .official-btn-right {
+  justify-content: center;
+}
+
+.article {
+display: none;
+}
+
+.research-top-text ul li {
+  padding: 20px 0 0 0;
+}
+
+
+.award-heading h2{
+  font-size: 26px;
+  line-height: 36px;
+  padding-bottom: 30px;
+}
+
+
+.photogallary-heading h2 {
+  font-size: 22px;
+  line-height: 40.2px;
+}
+
+.photogallary {
+  padding: 60px 0;
+}
+
+.hero .hero-content .hero-victor-img {
+display: none;
+}
+
+
+.photographer-form {
+  padding: 0px 0 60px 0;
+}
+
+
+.hire-content h2{
+  font-size: 38px;
+  line-height: 48.2px;
+}
+
+
+.photographer-about {
+  padding-top: 0px;
+}
+
+.photographer-about .about-img .about-inner-img {
+  margin-left: 0;
+}
+
+.about-content h2{
+  font-size: 32px;
+  line-height: 42px;
+}
+.photographer-about .about-content h3 {
+  padding-top: 30px;
+}
+
+.progresss-bar{
+  display: none;
+}
+
+
+
+.photographer-service .service-card {
+margin-top: 20px;
+  margin-right: 0;
+}
+
+
+
+
+.portfolio-4 {
+display: none;
+}
+
+
+.service-details-4 .service-blog .service-research .service-research-img {
+  display: block;
+}
+.service-details-4 .service-blog .service-research .service-research-img img {
+  width: 100%;
+  padding-bottom: 20px;
+}
+.service-details-4 .service-blog .service-research .service-research-img img:last-child {
+  padding-bottom: 0px;
+}
+
+
+
+.service-details-4 {
+  padding: 60px 0 0 0;
+}
+
+
+.lawyer-footer .footer-top {
+  display: none;
+}
+
+
+.hero {
+  min-height: 400px;
+  padding-bottom: 0px;
+}
+
+
+.hero .hero-content .hero-btn-1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+
+.footer-main-item-four {
+  padding: 32px 0 0 0;
+}
+
+.footer-five {
+  padding: 60px 0 0 0;
+}
+
+
+.lawyer-service .service-tittle {
+  padding: 0 0;
+}
+
+.award-img img{
+  width: 100%;
+  margin-top: 30px;
+}
+
+
+.lawyear-testimonial {
+display: none;
+}
+
+.lawyer-footer .footer-center .footer-official .office-address .official-btn input {
+  height: 60px;
+  width: 100%;
+
+}
+
+.lawyer-service .container {
+  padding: 56px 30px 64px 30px;;
+}
+
+.lawyer-service .service-card-wrapper .service-card {
+  margin-right: 0px;
+  margin-top: 20px;
+}
+
+.about-lawyer .about-img {
+  margin-left: 0px;
+}
+
+.about-lawyer {
+  padding: 0 0 60px 0;
+
+}
+
+.about-lawyer .about-content h3 {
+  padding-top: 20px;
+}
+
+.about-lawyer .about-checkpoint {
+  justify-content: center;
+}
+
+
+.about-lawyer .signature {
+  padding: 0px 0 0 0;
+}
+
+
+.lawyer-award {
+  padding: 60px 0;
+}
+
+.lawyer-award .award-heading h3,h2 {
+  text-align: center;
+}
+.lawyer-award .award-heading h2 {
+padding-bottom: 0;
+}
+
+
+
+.lawyer-gallary {
+  padding: 60px 0;
+}
+
+.lawyergallary-heading h2{
+  font-size: 40px;
+}
+
+
+.lawyer-gallary .lawyear-gallary-gap .lawyergallary-box {
+  margin-right: 0;
+  margin-bottom: 20px;
+}
+
+
+
+
+.lawyer-gallary .lawyear-gallary-gap .lawyergallary-box .lawyergallary-content {
+  padding: 19px 0 19px 0;
+  text-align: center;
+}
+
+.lawyer-news {
+  padding: 60px 0;
+}
+
+.hire-content {
+  padding-bottom: 30px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.lawyer-hero {
+  padding: 148px 0 92px 0;
+}
+
+
+.lawyer-service-details .service-heading .service-social-icon {
+  gap: 13px;
+}
+
+
+.service-query-3 .service-query-section .service-query-box .service-qury-btn .btn-style-4 {
+  width: 184px;
+}
+
+
+.lawyer-service-details .service-blog .service-research .service-research-img {
+  display: block;
+}
+.lawyer-service-details .service-blog .service-research .service-research-img img {
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+
+.project-bg {
+  padding: 62px 0 62px 0!important;
+}
+
+>>>>>>> parent of 66fd7a7 (Update responsive.css)
 .Product-top {
   margin-top: 0;
 }
@@ -661,6 +1219,65 @@ h2 {
   line-height: 40px;
 }
 
+<<<<<<< HEAD
+=======
+.h-1-blog .blog-item {
+  margin: 0 0;
+}
+
+
+
+.inner-service .service-item {
+  margin: 0 0 20px 0;
+}
+
+
+.inner-mt {
+  margin-top: 0;
+}
+
+
+ .b-slick{
+  margin-top: 90px;
+ }
+
+
+
+ .slick .slick-item .slick-text h3 {
+  padding-right: 0;
+}
+
+.Project-pt {
+  padding-top: 0;
+}
+
+
+
+
+.service-details-photographer .service-blog .service-research .service-research-img {
+  display: block;
+
+}
+.service-details-photographer .service-blog .service-research .service-research-img img {
+  display: block;
+  width: 100%;
+  margin-bottom: 30px;
+}
+.service-details-photographer .service-blog .service-research .service-research-img img:last-child {
+  margin-bottom: 0px;
+}
+
+
+.service-query .service-query-section .service-query-content h2 {
+  font-size: 18px;
+  line-height: 33px;
+}
+
+ .thought-three {
+  padding: 0 !important;
+}
+
+>>>>>>> parent of 66fd7a7 (Update responsive.css)
 
 .service-two .service-item-two {
   margin: 0 0 30px 0;
